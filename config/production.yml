@@ -1,0 +1,5 @@
+server:
+  origin: http://nests-task-management-frontend-yula.s3-website.eu-north-1.amazonaws.com
+
+db:
+  synchronize: false
